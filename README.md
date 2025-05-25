@@ -140,5 +140,3 @@ Use the interactive Swagger UI to test endpoints.
   Error if token is missing/invalid/expired
 
 ---
-
-Let me know if you’d like this exported to a `.md` file, PDF, or need help generating screenshots for documentation.
