@@ -1,7 +1,3 @@
-Here’s your complete `README.md` instructions written professionally and clearly for submission:
-
----
-
 # 🔐 Secure Authentication System
 
 A minimal secure authentication system featuring:
