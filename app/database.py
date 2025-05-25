@@ -3,7 +3,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 from passlib.context import CryptContext
 
 # 🛠 UPDATE this with your own MySQL connection info
-DATABASE_URL = "mysql+pymysql://root:r00tPassword123@localhost/authdb"
+DATABASE_URL = "mysql+pymysql://root:your_password@localhost/secure_auth_db"
 
 # SQLAlchemy setup
 engine = create_engine(DATABASE_URL)
